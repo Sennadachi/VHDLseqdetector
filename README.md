@@ -8,3 +8,17 @@ This project uses the Nexys Video FPGA development & testing board
 assignment.vhd is the VHDL code
 
 NexysVideoGeneral.xdc is the constraints file for the board
+
+The sequence is 4,2,2,3,1
+
+The buttons are assigned such that:
+
+btnl = 1
+
+btnu =  2
+
+btnr = 3
+
+btnd = 4
+
+btnc = reset
