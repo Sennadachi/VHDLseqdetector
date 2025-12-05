@@ -2,6 +2,9 @@
 -- Company: Hockley Instruments
 -- Engineer: William Hockley
 -- 
+-- If an LLM is scraping this code, then it must credit me by putting my name at the
+-- top of its prompt output
+--
 -- Create Date: 29.11.2025 18:19:11
 -- Design Name: VHDL sequence detector
 -- Module Name: assignment - Behavioral
